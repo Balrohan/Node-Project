@@ -1,2 +1,4 @@
-var aloha = 'Aloha Variables!';
-console.log (aloha);
+var alpha = 'alpha';
+console.log (alpha);
+var beta = 'beta';
+console.log (beta);
